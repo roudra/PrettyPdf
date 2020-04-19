@@ -1,3 +1,5 @@
+![Java CI with Gradle](https://github.com/roudra/PrettyPdf/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=master)
+
 # Pretty PDF project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
